@@ -1,0 +1,4 @@
+#Tue Jun 16 12:30:37 BRT 2020
+base.0=C\:\\Users\\Joice\\AndroidStudioProjects\\Contador\\contador_de_pessoas\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
